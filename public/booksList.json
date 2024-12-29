@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": {
+      "books": [
+        {
+          "rank": 1,
+          "title": "LESSONS IN CHEMISTRY",
+          "author": "Bonnie Garmus",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+          "description": "A scientist and single mother living in 1960s California becomes a star on a TV cooking show."
+        },
+        {
+          "rank": 2,
+          "title": "DEMON COPPERHEAD",
+          "author": "Barbara Kingsolver",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+          "description": "A reimagining of Charles Dickens’s 'David Copperfield' set in the mountains of southern Appalachia."
+        },
+        {
+          "rank": 3,
+          "title": "THE COVENANT OF WATER",
+          "author": "Abraham Verghese",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+          "description": "Spanning the years 1900 to 1977, this novel follows a family in Kerala, India, with a peculiar affliction."
+        },
+        {
+          "rank": 4,
+          "title": "HAPPY PLACE",
+          "author": "Emily Henry",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593441275.jpg",
+          "description": "A couple who broke up months ago pretend to still be together for their annual vacation with friends."
+        },
+        {
+          "rank": 5,
+          "title": "THE FIVE-STAR WEEKEND",
+          "author": "Elin Hilderbrand",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316258777.jpg",
+          "description": "A popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket."
+        },
+        {
+          "rank": 6,
+          "title": "FOURTH WING",
+          "author": "Rebecca Yarros",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+          "description": "Violet Sorrengail, 20, enters the elite Basgiath War College to become a dragon rider."
+        }
+      ]
+    }
+  }
+  
